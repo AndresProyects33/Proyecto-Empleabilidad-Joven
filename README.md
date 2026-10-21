@@ -18,7 +18,7 @@ Describir el alcance
 - `03_seguimiento/`: acuerdos, decisiones y reportes de avance.
 
 ## Como se gestiona
-Cada actividad se registra como Issue
+Cada actividad se registra como Issue y se visualiza como Github Projects. El cierre requiere evidencia y verificación , no solamente cambio de estado.
 
 ## Protección de datos
 No se publican datos verificables ni información reservada.

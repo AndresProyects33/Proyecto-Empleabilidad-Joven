@@ -4,7 +4,7 @@
 Complementar registros administrativos y caracterizaciones con información actualizada sobre trayectorias educativas y laborales, necesidades, competencias, barreras y preferencias frente a servicios de empleo.​
 
 ## Alcance
-Describir el alcance
+El proyecto Ruta Joven San Gabriel es un piloto de empleabilidad juvenil que, entre el 1 de febrero de 2027 y el 31 de enero de 2028, atenderá a 360 jóvenes de 18 a 28 años de la zona urbana consolidada, la urbana periférica y los centros poblados y rural, organizados en nueve cohortes de 40 personas y diferenciados en tres perfiles: quienes estudian, quienes buscan empleo y quienes ya trabajan. Cada participante recorrerá una ruta de 16 semanas con orientación laboral, formación modular y vinculación a prácticas o empleo, y se hará seguimiento durante 3 a 6 meses, hasta el 31 de julio de 2028. Se espera que al menos el 75 % complete la ruta y que el 40 % de quienes la completan logre su resultado según el perfil.
 
 ## Equipo y responsabilidades
 - Fabián Andrés Pérez González:Coordinación general del proyecto. Conformación del equipo, control del cronograma y comunicación con aliados.

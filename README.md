@@ -1,7 +1,7 @@
 # Empleabilidad Joven
 
 ## Proposito
-Escribir el proposito
+Complementar registros administrativos y caracterizaciones con información actualizada sobre trayectorias educativas y laborales, necesidades, competencias, barreras y preferencias frente a servicios de empleo.​
 
 ## Alcance
 Describir el alcance

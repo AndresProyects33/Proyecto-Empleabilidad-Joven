@@ -2,8 +2,6 @@
 
 Plan de ejecución del proyecto Ruta Joven San Gabriel 
 
-> Los datos de la encuesta que sustentan el proyecto son sintéticos: orientan el diseño, pero no son cifras oficiales ni representativas de la juventud de San Gabriel. Las metas, cupos, fechas y costos son decisiones de diseño del canvas V2.
-
 ## 1. Objetivo y alcance
 
 **Objetivo.** Entre el 1 de febrero de 2027 y el 31 de enero de 2028, ejecutar la Ruta Joven con 360 jóvenes de 18 a 28 años, de modo que al menos el 75 % (270 jóvenes) complete la ruta y al menos el 40 % de quienes la completan logre, a los 3 a 6 meses, su resultado según el perfil. El seguimiento llega hasta el 31 de julio de 2028.

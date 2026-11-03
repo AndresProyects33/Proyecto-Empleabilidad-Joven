@@ -71,5 +71,4 @@ Riesgos del proyecto y de sus 12 actividades operativas
 
 - **Total:** 22 riesgos (8 del proyecto y 14 de actividades): 1 crítico, 9 altos y 12 medios. No hay riesgos bajos.
 - **Riesgo crítico:** R3, la escasez de vacantes y prácticas. Se vincula con RA-10, RA-11 y RA-13, así que las actividades 10 a 12 concentran la mayor exposición.
-- **Registro en GitHub:** cada riesgo alto o crítico tiene un issue con la etiqueta «riesgo», su responsable y su señal de alerta. Los riesgos medios se revisan en el comité trimestral.
 - **Revisión:** la coordinación revisa la matriz cada trimestre y tras cualquier hito, y actualiza probabilidad, impacto y nivel según lo observado.

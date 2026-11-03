@@ -1,6 +1,6 @@
 # Matriz de riesgos: Ruta Joven San Gabriel
 
-Riesgos del proyecto y de sus 12 actividades operativas · 3 de noviembre de 2026
+Riesgos del proyecto y de sus 12 actividades operativas 
 
 ## 1. Criterios de valoración
 

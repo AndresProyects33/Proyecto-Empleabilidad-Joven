@@ -4,19 +4,13 @@ Riesgos del proyecto y de sus 12 actividades operativas · 3 de noviembre de 202
 
 ## 1. Criterios de valoración
 
-La valoración es **cualitativa**: es un juicio del equipo de formulación basado en los hallazgos de la base sintética y en el diseño del proyecto, no una probabilidad estadística. Se revisa en el comité de seguimiento trimestral.
-
 | Nivel | Probabilidad | Impacto |
 |---|---|---|
 | 1 | Baja: no se espera que ocurra salvo condiciones adversas | Bajo: se absorbe con ajustes menores, sin afectar metas ni cronograma |
 | 2 | Media: puede ocurrir durante la ejecución | Medio: retrasa una etapa o reduce la calidad de un entregable |
 | 3 | Alta: es probable que ocurra | Alto: compromete una meta, el cronograma general o el presupuesto |
 
-El nivel del riesgo resulta de multiplicar probabilidad por impacto: **9 crítico**, **6 alto**, **3 a 4 medio** y **1 a 2 bajo**.
-
 ## 2. Riesgos del proyecto
-
-Son los riesgos R1 a R8 del canvas, ahora valorados.
 
 | ID | Riesgo (causa y consecuencia) | Prob. | Impacto | Nivel | Mitigación y señal de alerta | Responsable |
 |---|---|---|---|---|---|---|

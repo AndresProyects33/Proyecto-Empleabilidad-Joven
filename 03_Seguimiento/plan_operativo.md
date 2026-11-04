@@ -38,7 +38,7 @@ Plan de ejecución del proyecto Ruta Joven San Gabriel
 - [Evidencias](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/02_Evidencias)
 
 
-## **Componentes**
+## 4. **Componentes**
 | **Componente** | **Issues** |
 |---|---|
 |Preparación | [ACT 1](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/1) |
@@ -50,7 +50,7 @@ Plan de ejecución del proyecto Ruta Joven San Gabriel
 |Riesgos y Verificación | Riesgo 1 |
 
 
-## 4. Cronograma por etapas
+## 5. Cronograma por etapas
 
 | Etapa | Periodo | Actividades principales | Hito |
 |---|---|---|---|
@@ -71,7 +71,7 @@ Plan de ejecución del proyecto Ruta Joven San Gabriel
 
 Distribución: C1 a C4 en la urbana consolidada, C5 y C6 en la periférica, y C7 a C9 en centros poblados y rural.
 
-## 5. Actividades operativas
+## 6. Actividades operativas
 
 | N.º | Actividad | Responsable | Etapa y periodo | Entregable 
 |---|---|---|---|---|
@@ -174,7 +174,7 @@ Distribución: C1 a C4 en la urbana consolidada, C5 y C6 en la periférica, y C7
 - [ ] Acompañar los procesos de selección y vinculación.
 - [ ] Registrar las contrataciones y resultados obtenidos.
 
-## 5. Entregables
+## 7. Entregables
 
 | Código | Entregable | Actividades relacionadas |
 |---|---|---|
@@ -185,7 +185,7 @@ Distribución: C1 a C4 en la urbana consolidada, C5 y C6 en la periférica, y C7
 | E5 | Vinculación: directorio de aliados, convenios firmados, 60 cupos y 3 jornadas de intermediación | 10 y 12 |
 | E6 | Seguimiento y evaluación: tablero de indicadores, informe de seguimiento a 3 a 6 meses e informe final | 6 y 9 |
 
-## 6. Seguimiento de la ejecución en GitHub
+## 8. Seguimiento de la ejecución en GitHub
 
 | Aspecto | Información requerida | Cómo se actualiza |
 |---|---|---|
@@ -200,7 +200,7 @@ Distribución: C1 a C4 en la urbana consolidada, C5 y C6 en la periférica, y C7
 - **Registro:** cada actividad es un issue asignado a su responsable y vinculado al Project del equipo.
 - **Riesgos:** la matriz de riesgos del proyecto define señales de alerta y mitigaciones para cada actividad.
 
-## 7. Presupuesto estimado
+## 9. Presupuesto estimado
 
 Estimación de planeación en millones de pesos (COP) de 2026, con valores unitarios definidos por el equipo de formulación. El presupuesto final se ajusta a las tarifas contratadas.
 

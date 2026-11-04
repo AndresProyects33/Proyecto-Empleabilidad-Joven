@@ -68,7 +68,7 @@ Distribución: C1 a C4 en la urbana consolidada, C5 y C6 en la periférica, y C7
 
 ### Criterios de finalización
 
-**Actividad 1. Convenios con entidades de formación**
+[Actividad 1. Convenios con entidades de formación](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/1)
 - [ ] Identificar entidades de formación aliadas.
 - [ ] Establecer contacto con las instituciones.
 - [ ] Definir la oferta de formación disponible.

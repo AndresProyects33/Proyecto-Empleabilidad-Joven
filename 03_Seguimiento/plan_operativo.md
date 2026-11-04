@@ -75,9 +75,9 @@ Distribución: C1 a C4 en la urbana consolidada, C5 y C6 en la periférica, y C7
 
 | N.º | Actividad | Responsable | Etapa y periodo | Entregable 
 |---|---|---|---|---|
-| 1 | Gestión de convenios con entidades de formación | Stephany Acevedo | Etapa 1 · feb. a abr. 2027 | E1 
-| 2 | Orientación laboral de los participantes | Stephany Acevedo | Etapa 3 · jun. a nov. 2027 | E2 
-| 3 | Implementación de formación modular | Stephany Acevedo | Etapa 3 · jun. a nov. 2027 | E3 
+| 1 | Gestión de convenios con entidades de formación | Stephany Acevedo | Etapa 1 · feb. a abr. 2027 | [E1](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/ACT%2001_%20Identificacion%20Entidades.pdf)
+| 2 | Orientación laboral de los participantes | Stephany Acevedo | Etapa 3 · jun. a nov. 2027 | [E2](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/ACT%2002_Documento_Metodologico_Orientacion_Laboral.pdf)
+| 3 | Implementación de formación modular | Stephany Acevedo | Etapa 3 · jun. a nov. 2027 | [E3](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/ACT%2003_Documento_Diseno_Curricular.pdf)
 | 4 | Conformación del equipo de trabajo | Fabián Pérez | Etapa 1 · feb. a mar. 2027 | E4
 | 5 | Planeación y organización de las nueve cohortes | Fabián Pérez | Etapa 1 · mar. a abr. 2027 | E5
 | 6 | Seguimiento y control de la ejecución | Fabián Pérez | Todo el proyecto · feb. 2027 a jul. 2028 | E6 

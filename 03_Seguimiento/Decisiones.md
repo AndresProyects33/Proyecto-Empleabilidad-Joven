@@ -7,10 +7,11 @@
 - **Responsables:**
 | Responsable | Actividades|
 |---|---|
-|Stephany Alejandra Acevedo Cortés| Actividades 1, 2 y 3|
-|Fabián Andrés Pérez González| Actividades 4, 5 y 6|
-|Andrés Felipe Salazar Gallego | Actividades 7, 8 y 9|
-|María Alejandra Barbosa Naranjo|Actividades 10, 11 y 12|
+| Stephany Alejandra Acevedo Cortés| Actividades 1, 2 y 3|
+| Fabián Andrés Pérez González| Actividades 4, 5 y 6|
+| Andrés Felipe Salazar Gallego | Actividades 7, 8 y 9|
+| María Alejandra Barbosa Naranjo| Actividades 10, 11 y 12|
+
 - Estado:
 - Relación: ACT-01 y ACT-03.
 - Orientación laboral y formación modular: convenios con entidades de formación, orientación y calidad de los módulos. Stephany Alejandra Acevedo Cortés.

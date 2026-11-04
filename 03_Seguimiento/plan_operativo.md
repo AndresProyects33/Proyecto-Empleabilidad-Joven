@@ -87,7 +87,7 @@ Distribución: C1 a C4 en la urbana consolidada, C5 y C6 en la periférica, y C7
 | 4 | Conformación del equipo de trabajo | Fabián Pérez | Etapa 1 · feb. a mar. 2027 | [E4](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/Actividad_4_Ruta_Joven_San_Gabriel.pdf)
 | 5 | Planeación y organización de las nueve cohortes | Fabián Pérez | Etapa 1 · mar. a abr. 2027 | [E5](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/Actividad_5_Ruta_Joven_San_Gabriel.pdf)
 | 6 | Seguimiento y control de la ejecución | Fabián Pérez | Todo el proyecto · feb. 2027 a jul. 2028 | [E6](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/Actividad_6_Ruta_Joven_San_Gabriel.pdf)
-| 7 | Registro e inscripción de participantes | Andrés Salazar | Etapa 2 · mayo 2027 | [E7](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/02_Evidencias/ACT_07_Base_Datos_360_Participantes.xlsx)
+| 7 | Registro e inscripción de participantes | Andrés Salazar | Etapa 2 · mayo 2027 | [E7](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/ACT_07_Base_Datos_360_Participantes.xlsx)
 | 8 | Seguimiento a la asistencia y participación | Andrés Salazar | Etapas 3 y 4 · jun. 2027 a ene. 2028 | [E8](02_Evidencias/ACT_08_Seguimiento_Asistencia_Cohortes.pdf)
 | 9 | Consolidación de evidencias e indicadores | Andrés Salazar | Todo el proyecto · feb. 2027 a jul. 2028 | [E9]
 | 10 | Gestión de convenios con empleadores | María Barbosa | Etapa 1 · mar. a abr. 2027 | [10](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/ACT%2010%20_Convenios%20con%20empleadores.pdf)

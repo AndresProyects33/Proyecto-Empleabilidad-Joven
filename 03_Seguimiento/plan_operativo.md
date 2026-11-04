@@ -36,7 +36,18 @@ Plan de ejecución del proyecto Ruta Joven San Gabriel
 - [Matriz de riesgos](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/03_Seguimiento/matriz_riesgos.md)
 - [Registro de decisiones](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/03_Seguimiento/Decisiones.md)
 - [Evidencias](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/02_Evidencias)
-  
+
+**Componentes**
+| **Componente** | **Issues** |
+|---|---|
+|Preparación | [ACT 1](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/1) |
+|Alistamiento y Validación | [ACT 2](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/2), [ACT 3](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/3), [ACT 4](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/4), [ACT 5](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/5) |
+|Convocatoria | [ACT 7](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/7)|
+|Implementación | [ACT 10](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/10), [ACT 11](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/11), [ACT 12](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/12) |
+|Cierre | [ACT 9](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/9)|
+|Seguimiento y Evaluación| [ACT 6](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/6), [ACT 8](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/8) |
+|Riesgos y Verificación | Riesgo 1 |
+
 
 ## 4. Cronograma por etapas
 

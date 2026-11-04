@@ -1,6 +1,6 @@
 # Registro de decisiones Empleabilidad Joven
 
-## DEC-01 | Organización inicial del repositorio
+## DEC-01 | Organización inicial 
 
 - **1. Coordinación general del proyecto:**
 conformación del equipo, control del cronograma y comunicación con aliados. Fabián Andrés Pérez González.}

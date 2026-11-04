@@ -1,6 +1,6 @@
-# Registro de decisiones Empleabilidad Joven
+# Registro de decisiones – Empleabilidad Juvenil
 
-## DEC-01 | Organización inicial 
+## DEC-01 | Organización inicial del equipo y distribución de responsabilidades
 
 - **1. Coordinación general del proyecto:**
 conformación del equipo, control del cronograma y comunicación con aliados. Fabián Andrés Pérez González.}

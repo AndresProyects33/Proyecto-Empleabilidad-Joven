@@ -84,9 +84,9 @@ Distribución: C1 a C4 en la urbana consolidada, C5 y C6 en la periférica, y C7
 | 1 | Gestión de convenios con entidades de formación | Stephany Acevedo | Etapa 1 · feb. a abr. 2027 | [E1](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/ACT%2001_%20Identificacion%20Entidades.pdf)
 | 2 | Orientación laboral de los participantes | Stephany Acevedo | Etapa 3 · jun. a nov. 2027 | [E2](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/ACT%2002_Documento_Metodologico_Orientacion_Laboral.pdf)
 | 3 | Implementación de formación modular | Stephany Acevedo | Etapa 3 · jun. a nov. 2027 | [E3](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/ACT%2003_Documento_Diseno_Curricular.pdf)
-| 4 | Conformación del equipo de trabajo | Fabián Pérez | Etapa 1 · feb. a mar. 2027 | E4
-| 5 | Planeación y organización de las nueve cohortes | Fabián Pérez | Etapa 1 · mar. a abr. 2027 | E5
-| 6 | Seguimiento y control de la ejecución | Fabián Pérez | Todo el proyecto · feb. 2027 a jul. 2028 | E6 
+| 4 | Conformación del equipo de trabajo | Fabián Pérez | Etapa 1 · feb. a mar. 2027 | [E4](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/Actividad_4_Ruta_Joven_San_Gabriel.pdf)
+| 5 | Planeación y organización de las nueve cohortes | Fabián Pérez | Etapa 1 · mar. a abr. 2027 | [E5](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/Actividad_5_Ruta_Joven_San_Gabriel.pdf)
+| 6 | Seguimiento y control de la ejecución | Fabián Pérez | Todo el proyecto · feb. 2027 a jul. 2028 | [E6](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/Actividad_6_Ruta_Joven_San_Gabriel.pdf)
 | 7 | Registro e inscripción de participantes | Andrés Salazar | Etapa 2 · mayo 2027 | E7 
 | 8 | Seguimiento a la asistencia y participación | Andrés Salazar | Etapas 3 y 4 · jun. 2027 a ene. 2028 | E8
 | 9 | Consolidación de evidencias e indicadores | Andrés Salazar | Todo el proyecto · feb. 2027 a jul. 2028 | E9 

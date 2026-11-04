@@ -37,7 +37,8 @@ Plan de ejecución del proyecto Ruta Joven San Gabriel
 - [Registro de decisiones](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/03_Seguimiento/Decisiones.md)
 - [Evidencias](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/02_Evidencias)
 
-**Componentes**
+
+## **Componentes**
 | **Componente** | **Issues** |
 |---|---|
 |Preparación | [ACT 1](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/1) |

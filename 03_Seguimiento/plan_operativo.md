@@ -34,7 +34,7 @@ Plan de ejecución del proyecto Ruta Joven San Gabriel
 - [Plan operativo y dependencias](03_Seguimiento/plan_operativo.md)
 - [Configuración práctica del GitHub Project existence](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/settings)
 - [Matriz de riesgos](03_Seguimiento/matriz_riesgos.md)
-- [Registro de decisiones](03_Seguimiento/Decisiones.md)
+- [Registro de decisiones](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/03_Seguimiento/Decisiones.md)
 - [Evidencias](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/02_Evidencias)
 - 
 

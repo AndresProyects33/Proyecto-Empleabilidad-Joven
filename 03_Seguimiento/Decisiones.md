@@ -5,6 +5,7 @@
 - **Acuerdo:** Se establece la distribución de las 12 actividades operativas del proyecto entre los cuatro integrantes del equipo, definiendo responsables para su ejecución, seguimiento y consolidación de entregables.
 - **Criterio:** La asignación se realiza por bloques de actividades, garantizando claridad en las responsabilidades y articulación entre los componentes del proyecto.
 - **Responsables:**
+  
 | Responsable | Actividades|
 |---|---|
 | Stephany Alejandra Acevedo Cortés| Actividades 1, 2 y 3|

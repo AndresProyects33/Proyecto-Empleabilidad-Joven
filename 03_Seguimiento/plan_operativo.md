@@ -1,6 +1,6 @@
 # Plan operativo: Ruta Joven San Gabriel
 
-Plan de ejecución del proyecto Ruta Joven San Gabriel 
+Plan de ejecución del proyecto Ruta Joven San Gabriel · 3 de noviembre de 2026
 
 ## 1. Objetivo y alcance
 

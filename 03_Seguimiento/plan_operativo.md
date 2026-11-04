@@ -38,7 +38,7 @@ Plan de ejecución del proyecto Ruta Joven San Gabriel
 - [Evidencias](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/02_Evidencias)
   
 
-## 3. Cronograma por etapas
+## 4. Cronograma por etapas
 
 | Etapa | Periodo | Actividades principales | Hito |
 |---|---|---|---|
@@ -59,22 +59,22 @@ Plan de ejecución del proyecto Ruta Joven San Gabriel
 
 Distribución: C1 a C4 en la urbana consolidada, C5 y C6 en la periférica, y C7 a C9 en centros poblados y rural.
 
-## 4. Actividades operativas
+## 5. Actividades operativas
 
-| N.º | Actividad | Responsable | Etapa y periodo | Entregable | Dependencia |
-|---|---|---|---|---|---|
-| 1 | Gestión de convenios con entidades de formación | Stephany Acevedo | Etapa 1 · feb. a abr. 2027 | E1 | Presupuesto asignado |
-| 2 | Orientación laboral de los participantes | Stephany Acevedo | Etapa 3 · jun. a nov. 2027 | E2 | Actividades 5, 7 y 11 |
-| 3 | Implementación de formación modular | Stephany Acevedo | Etapa 3 · jun. a nov. 2027 | E3 | Actividades 1 y 5 |
-| 4 | Conformación del equipo de trabajo | Fabián Pérez | Etapa 1 · feb. a mar. 2027 | E4| Presupuesto asignado |
-| 5 | Planeación y organización de las nueve cohortes | Fabián Pérez | Etapa 1 · mar. a abr. 2027 | E5| Actividades 1 y 4 |
-| 6 | Seguimiento y control de la ejecución | Fabián Pérez | Todo el proyecto · feb. 2027 a jul. 2028 | E6 | Actividad 4 |
-| 7 | Registro e inscripción de participantes | Andrés Salazar | Etapa 2 · mayo 2027 | E7 | Actividad 11 |
-| 8 | Seguimiento a la asistencia y participación | Andrés Salazar | Etapas 3 y 4 · jun. 2027 a ene. 2028 | E8 | Actividades 2, 3 y 7 |
-| 9 | Consolidación de evidencias e indicadores | Andrés Salazar | Todo el proyecto · feb. 2027 a jul. 2028 | E9 | Actividades 7 y 8 |
-| 10 | Gestión de convenios con empleadores | María Barbosa | Etapa 1 · mar. a abr. 2027 | E10 | Presupuesto asignado |
-| 11 | Convocatoria territorial de jóvenes | María Barbosa | Etapa 2 · mayo 2027 | E11 | Actividades 4 y 5 |
-| 12 | Intermediación y vinculación laboral | María Barbosa | Etapas 3 y 4 · jun. 2027 a ene. 2028 | E12 | Actividades 2, 3 y 10 |
+| N.º | Actividad | Responsable | Etapa y periodo | Entregable 
+|---|---|---|---|---|
+| 1 | Gestión de convenios con entidades de formación | Stephany Acevedo | Etapa 1 · feb. a abr. 2027 | E1 
+| 2 | Orientación laboral de los participantes | Stephany Acevedo | Etapa 3 · jun. a nov. 2027 | E2 
+| 3 | Implementación de formación modular | Stephany Acevedo | Etapa 3 · jun. a nov. 2027 | E3 
+| 4 | Conformación del equipo de trabajo | Fabián Pérez | Etapa 1 · feb. a mar. 2027 | E4
+| 5 | Planeación y organización de las nueve cohortes | Fabián Pérez | Etapa 1 · mar. a abr. 2027 | E5
+| 6 | Seguimiento y control de la ejecución | Fabián Pérez | Todo el proyecto · feb. 2027 a jul. 2028 | E6 
+| 7 | Registro e inscripción de participantes | Andrés Salazar | Etapa 2 · mayo 2027 | E7 
+| 8 | Seguimiento a la asistencia y participación | Andrés Salazar | Etapas 3 y 4 · jun. 2027 a ene. 2028 | E8
+| 9 | Consolidación de evidencias e indicadores | Andrés Salazar | Todo el proyecto · feb. 2027 a jul. 2028 | E9 
+| 10 | Gestión de convenios con empleadores | María Barbosa | Etapa 1 · mar. a abr. 2027 | E10 
+| 11 | Convocatoria territorial de jóvenes | María Barbosa | Etapa 2 · mayo 2027 | E11
+| 12 | Intermediación y vinculación laboral | María Barbosa | Etapas 3 y 4 · jun. 2027 a ene. 2028 | E12 
 
 ### Criterios de finalización
 

@@ -28,6 +28,12 @@ Plan de ejecución del proyecto Ruta Joven San Gabriel
 | Andrés Felipe Salazar Gallego | Datos y registro de información |
 | María Alejandra Barbosa Naranjo | Vinculación laboral y enlaces territoriales |
 
+## 3. Actividades y gestión
+
+- [Abrir listado de Issues](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues)
+- [Plan operativo y dependencias](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/03_Seguimiento/plan_operativo.md)
+- [Configuración práctica del GitHub Project existence](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/settings)
+- 
 
 ## 3. Cronograma por etapas
 

@@ -50,11 +50,11 @@ Plan de ejecución del proyecto Ruta Joven San Gabriel
 |Riesgos y Verificación | Riesgo 1 |
 
 ## Documentos, insumos y herramientas
-•[Carpeta de formulación](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/01_Formulaci%C3%B3n): ficha inicial de demostración y documentos de partida.
+•[Carpeta de formulación](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/01_Formulaci%C3%B3n)
 
-•[Carpeta de evidencias](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/02_Evidencias): índice de entregables y archivos autorizados cuando estén disponibles.
+•[Carpeta de evidencias](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/02_Evidencias)
 
-•[Carpeta de seguimiento](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/03_Seguimiento): planificación, decisiones y control de avance.
+•[Carpeta de seguimiento](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/03_Seguimiento)
 
 ## 5. Cronograma por etapas
 

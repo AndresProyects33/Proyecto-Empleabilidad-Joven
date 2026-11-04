@@ -3,7 +3,7 @@
 ## DEC-01 | Organización inicial del equipo y distribución de responsabilidades
 
 - **1. Coordinación general del proyecto:**
-conformación del equipo, control del cronograma y comunicación con aliados. Fabián Andrés Pérez González.}
+conformación del equipo, control del cronograma y comunicación con aliados. 
 
 - **2. Acuerdo:**
 Se establece la distribución de las 12 actividades operativas del proyecto entre los cuatro integrantes del equipo, definiendo responsables para su ejecución, seguimiento y consolidación de entregables.

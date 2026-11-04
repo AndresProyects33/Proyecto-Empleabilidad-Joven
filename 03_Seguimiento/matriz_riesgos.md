@@ -4,11 +4,15 @@ Riesgos del proyecto y de sus 12 actividades operativas
 
 ## 1. Criterios de valoración
 
+La valoración es **cualitativa**: es un juicio del equipo de formulación basado en los hallazgos de la base sintética y en el diseño del proyecto, no una probabilidad estadística. Se revisa en el comité de seguimiento trimestral.
+
 | Nivel | Probabilidad | Impacto |
 |---|---|---|
 | 1 | Baja: no se espera que ocurra salvo condiciones adversas | Bajo: se absorbe con ajustes menores, sin afectar metas ni cronograma |
 | 2 | Media: puede ocurrir durante la ejecución | Medio: retrasa una etapa o reduce la calidad de un entregable |
 | 3 | Alta: es probable que ocurra | Alto: compromete una meta, el cronograma general o el presupuesto |
+
+El nivel del riesgo resulta de multiplicar probabilidad por impacto: **9 crítico**, **6 alto**, **3 a 4 medio** y **1 a 2 bajo**.
 
 ## 2. Riesgos del proyecto
 
@@ -71,4 +75,5 @@ Riesgos del proyecto y de sus 12 actividades operativas
 
 - **Total:** 22 riesgos (8 del proyecto y 14 de actividades): 1 crítico, 9 altos y 12 medios. No hay riesgos bajos.
 - **Riesgo crítico:** R3, la escasez de vacantes y prácticas. Se vincula con RA-10, RA-11 y RA-13, así que las actividades 10 a 12 concentran la mayor exposición.
+- **Registro en GitHub:** cada riesgo alto o crítico tiene un issue con la etiqueta «riesgo», su responsable y su señal de alerta. Los riesgos medios se revisan en el comité trimestral.
 - **Revisión:** la coordinación revisa la matriz cada trimestre y tras cualquier hito, y actualiza probabilidad, impacto y nivel según lo observado.

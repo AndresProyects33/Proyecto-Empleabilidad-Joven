@@ -21,12 +21,12 @@ Plan de ejecución del proyecto Ruta Joven San Gabriel
 
 ## 2. Equipo y responsabilidades
 
-| Persona | Responsabilidad 
+| Persona | Responsabilidad|
 |---|---|---|
-| Stephany Alejandra Acevedo Cortés | Orientación laboral y formación modular 
-| Fabián Andrés Pérez González | Coordinación general del proyecto 
-| Andrés Felipe Salazar Gallego | Datos y registro de información 
-| María Alejandra Barbosa Naranjo | Vinculación laboral y enlaces territoriales 
+| Stephany Alejandra Acevedo Cortés | Orientación laboral y formación modular |
+| Fabián Andrés Pérez González | Coordinación general del proyecto |
+| Andrés Felipe Salazar Gallego | Datos y registro de información |
+| María Alejandra Barbosa Naranjo | Vinculación laboral y enlaces territoriales |
 
 
 ## 3. Cronograma por etapas

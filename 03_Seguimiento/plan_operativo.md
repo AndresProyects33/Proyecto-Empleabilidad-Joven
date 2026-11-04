@@ -49,6 +49,10 @@ Plan de ejecución del proyecto Ruta Joven San Gabriel
 |Seguimiento y Evaluación| [ACT 6](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/6), [ACT 8](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/8) |
 |Riesgos y Verificación | Riesgo 1 |
 
+## Documentos, insumos y herramientas
+•[Carpeta de formulación](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/01_Formulaci%C3%B3n): ficha inicial de demostración y documentos de partida.
+•[Carpeta de evidencias](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/02_Evidencias): índice de entregables y archivos autorizados cuando estén disponibles.
+•[Carpeta de seguimiento](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/03_Seguimiento): planificación, decisiones y control de avance.
 
 ## 5. Cronograma por etapas
 

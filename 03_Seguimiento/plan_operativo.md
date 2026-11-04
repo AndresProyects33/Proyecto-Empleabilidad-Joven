@@ -87,9 +87,9 @@ Distribución: C1 a C4 en la urbana consolidada, C5 y C6 en la periférica, y C7
 | 4 | Conformación del equipo de trabajo | Fabián Pérez | Etapa 1 · feb. a mar. 2027 | [E4](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/Actividad_4_Ruta_Joven_San_Gabriel.pdf)
 | 5 | Planeación y organización de las nueve cohortes | Fabián Pérez | Etapa 1 · mar. a abr. 2027 | [E5](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/Actividad_5_Ruta_Joven_San_Gabriel.pdf)
 | 6 | Seguimiento y control de la ejecución | Fabián Pérez | Todo el proyecto · feb. 2027 a jul. 2028 | [E6](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/Actividad_6_Ruta_Joven_San_Gabriel.pdf)
-| 7 | Registro e inscripción de participantes | Andrés Salazar | Etapa 2 · mayo 2027 | E7 
-| 8 | Seguimiento a la asistencia y participación | Andrés Salazar | Etapas 3 y 4 · jun. 2027 a ene. 2028 | E8
-| 9 | Consolidación de evidencias e indicadores | Andrés Salazar | Todo el proyecto · feb. 2027 a jul. 2028 | E9 
+| 7 | Registro e inscripción de participantes | Andrés Salazar | Etapa 2 · mayo 2027 | [E7](02_Evidencias/ACT_07_Base_Datos_360_Participantes.xlsx) 
+| 8 | Seguimiento a la asistencia y participación | Andrés Salazar | Etapas 3 y 4 · jun. 2027 a ene. 2028 | [E8](02_Evidencias/ACT_08_Seguimiento_Asistencia_Cohortes.xlsx)
+| 9 | Consolidación de evidencias e indicadores | Andrés Salazar | Todo el proyecto · feb. 2027 a jul. 2028 | [E9](02_Evidencias/ACT_09_Matriz_Indicadores_Evidencias.xlsx) 
 | 10 | Gestión de convenios con empleadores | María Barbosa | Etapa 1 · mar. a abr. 2027 | [10](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/ACT%2010%20_Convenios%20con%20empleadores.pdf)
 | 11 | Convocatoria territorial de jóvenes | María Barbosa | Etapa 2 · mayo 2027 | [11](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/ACT%2011%20_Convocatoria%20territorial%20de%20j%C3%B3venes.pdf)
 | 12 | Intermediación y vinculación laboral | María Barbosa | Etapas 3 y 4 · jun. 2027 a ene. 2028 | [12](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/02_Evidencias/ACT%2012%20_Resultados%20intermediaci%C3%B3n%20y%20vinculaci%C3%B3n%20laboral.pdf)

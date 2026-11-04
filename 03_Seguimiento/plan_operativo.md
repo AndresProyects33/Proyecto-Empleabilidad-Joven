@@ -53,18 +53,18 @@ Distribución: C1 a C4 en la urbana consolidada, C5 y C6 en la periférica, y C7
 
 | N.º | Actividad | Responsable | Etapa y periodo | Entregable | Dependencia |
 |---|---|---|---|---|---|
-| 1 | Gestión de convenios con entidades de formación | Stephany Acevedo | Etapa 1 · feb. a abr. 2027 | E1 y E4 | Presupuesto asignado |
-| 2 | Orientación laboral de los participantes | Stephany Acevedo | Etapa 3 · jun. a nov. 2027 | E3 | Actividades 5, 7 y 11 |
-| 3 | Implementación de formación modular | Stephany Acevedo | Etapa 3 · jun. a nov. 2027 | E4 | Actividades 1 y 5 |
-| 4 | Conformación del equipo de trabajo | Fabián Pérez | Etapa 1 · feb. a mar. 2027 | E1 | Presupuesto asignado |
-| 5 | Planeación y organización de las nueve cohortes | Fabián Pérez | Etapa 1 · mar. a abr. 2027 | E1 y E2 | Actividades 1 y 4 |
+| 1 | Gestión de convenios con entidades de formación | Stephany Acevedo | Etapa 1 · feb. a abr. 2027 | E1 | Presupuesto asignado |
+| 2 | Orientación laboral de los participantes | Stephany Acevedo | Etapa 3 · jun. a nov. 2027 | E2 | Actividades 5, 7 y 11 |
+| 3 | Implementación de formación modular | Stephany Acevedo | Etapa 3 · jun. a nov. 2027 | E3 | Actividades 1 y 5 |
+| 4 | Conformación del equipo de trabajo | Fabián Pérez | Etapa 1 · feb. a mar. 2027 | E4| Presupuesto asignado |
+| 5 | Planeación y organización de las nueve cohortes | Fabián Pérez | Etapa 1 · mar. a abr. 2027 | E5| Actividades 1 y 4 |
 | 6 | Seguimiento y control de la ejecución | Fabián Pérez | Todo el proyecto · feb. 2027 a jul. 2028 | E6 | Actividad 4 |
-| 7 | Registro e inscripción de participantes | Andrés Salazar | Etapa 2 · mayo 2027 | E2 | Actividad 11 |
-| 8 | Seguimiento a la asistencia y participación | Andrés Salazar | Etapas 3 y 4 · jun. 2027 a ene. 2028 | E4 | Actividades 2, 3 y 7 |
-| 9 | Consolidación de evidencias e indicadores | Andrés Salazar | Todo el proyecto · feb. 2027 a jul. 2028 | E6 | Actividades 7 y 8 |
-| 10 | Gestión de convenios con empleadores | María Barbosa | Etapa 1 · mar. a abr. 2027 | E5 | Presupuesto asignado |
-| 11 | Convocatoria territorial de jóvenes | María Barbosa | Etapa 2 · mayo 2027 | E2 | Actividades 4 y 5 |
-| 12 | Intermediación y vinculación laboral | María Barbosa | Etapas 3 y 4 · jun. 2027 a ene. 2028 | E5 | Actividades 2, 3 y 10 |
+| 7 | Registro e inscripción de participantes | Andrés Salazar | Etapa 2 · mayo 2027 | E7 | Actividad 11 |
+| 8 | Seguimiento a la asistencia y participación | Andrés Salazar | Etapas 3 y 4 · jun. 2027 a ene. 2028 | E8 | Actividades 2, 3 y 7 |
+| 9 | Consolidación de evidencias e indicadores | Andrés Salazar | Todo el proyecto · feb. 2027 a jul. 2028 | E9 | Actividades 7 y 8 |
+| 10 | Gestión de convenios con empleadores | María Barbosa | Etapa 1 · mar. a abr. 2027 | E10 | Presupuesto asignado |
+| 11 | Convocatoria territorial de jóvenes | María Barbosa | Etapa 2 · mayo 2027 | E11 | Actividades 4 y 5 |
+| 12 | Intermediación y vinculación laboral | María Barbosa | Etapas 3 y 4 · jun. 2027 a ene. 2028 | E12 | Actividades 2, 3 y 10 |
 
 ### Criterios de finalización
 

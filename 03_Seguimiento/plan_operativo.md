@@ -47,7 +47,7 @@ Plan de ejecución del proyecto Ruta Joven San Gabriel
 |Implementación | [ACT 10](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/10), [ACT 11](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/11), [ACT 12](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/12) |
 |Cierre | [ACT 9](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/9)|
 |Seguimiento y Evaluación| [ACT 6](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/6), [ACT 8](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/8) |
-|Riesgos y Verificación | Riesgo 1 |
+|Riesgos y Verificación | [RIESGOS] (https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/03_Seguimiento/matriz_riesgos.md)|
 
 ## Documentos, insumos y herramientas
 •[Carpeta de formulación](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/01_Formulaci%C3%B3n)

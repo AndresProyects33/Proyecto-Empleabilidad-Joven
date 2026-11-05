@@ -22,3 +22,37 @@ Cada actividad se registra como Issue y se visualiza como Github Projects. El ci
 
 ## Protección de datos
 No se publican datos verificables ni información reservada.
+
+## Actividades y gestión
+
+- [Abrir listado de Issues](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues)
+- [Plan operativo](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/03_Seguimiento/plan_operativo.md)
+- [Gestión y seguimiento](https://github.com/users/AndresProyects33/projects/1/views/1)
+- [Matriz de riesgos](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/03_Seguimiento/matriz_riesgos.md)
+- [Registro de decisiones](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/03_Seguimiento/Decisiones.md)
+- [Evidencias](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/02_Evidencias)
+
+
+## **Componentes**
+| **Componente** | **Issues** |
+|---|---|
+|Preparación | [ACT 1](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/1) |
+|Alistamiento y Validación | [ACT 2](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/2), [ACT 3](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/3), [ACT 4](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/4), [ACT 5](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/5) |
+|Convocatoria | [ACT 7](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/7)|
+|Implementación | [ACT 10](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/10), [ACT 11](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/11), [ACT 12](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/12) |
+|Cierre | [ACT 9](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/9)|
+|Seguimiento y Evaluación| [ACT 6](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/6), [ACT 8](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/issues/8) |
+|Riesgos y Verificación | [RIESGOS](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/blob/main/03_Seguimiento/matriz_riesgos.md)|
+
+## Documentos, insumos y herramientas
+•[Carpeta de formulación](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/01_Formulaci%C3%B3n)
+
+•[Carpeta de evidencias](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/02_Evidencias)
+
+•[Carpeta de seguimiento](https://github.com/AndresProyects33/Proyecto-Empleabilidad-Joven/tree/main/03_Seguimiento)
+
+## Decisiones pendientes
+
+- [ ] Confirmar los empleadores y las entidades de formación aliadas.
+- [ ] Definir los módulos de formación que se ofrecerán.
+- [ ] Ajustar las metas con la información de los inscritos.

@@ -20,6 +20,6 @@ La asignación se realiza por bloques de actividades, garantizando claridad en l
 | Andrés Felipe Salazar Gallego | Actividades 7, 8 y 9|
 | María Alejandra Barbosa Naranjo| Actividades 10, 11 y 12|
 
-- **5. Estado:** Acoraddo
+- **5. Estado:** Acordado
 - **6. Relación:** ACT-01 - ACT-12.
   
